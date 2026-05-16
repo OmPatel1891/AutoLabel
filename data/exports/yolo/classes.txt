@@ -1,0 +1,5 @@
+circle
+square
+triangle
+other
+unknown
