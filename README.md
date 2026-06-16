@@ -1,6 +1,6 @@
-# AutoLabel — Zero-Shot Image Annotation Pipeline
+# AutoLabel: Zero-Shot Image Annotation Pipeline
 
-> Natural language → labeled dataset, zero manual annotation overhead.
+> Natural language -> labeled dataset, zero manual annotation overhead.
 
 **Stack:** Groq (LLaMA-3.3-70B) · LLaVA 7B (Ollama) · LangGraph · ChromaDB · Gradio · FastAPI · Docker
 
